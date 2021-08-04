@@ -6,7 +6,7 @@
  </div>
 
 <div>
-<img src="https://i.pinimg.com/originals/31/ea/19/31ea19746dd0bcbee7a971b62a268d48.gif" height="250cm"> 
+<img src="https://i.imgur.com/iyhrNtt.gif" height="250cm"> 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="250">
 </div>
 <h3> Technologies: </h3>
