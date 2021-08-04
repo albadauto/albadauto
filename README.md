@@ -16,7 +16,7 @@
 
 <img src="https://www.php.net/images/logos/new-php-logo.svg" width="70">
   
-<img src="https://purecode.sa/wp-content/uploads/flutter-logo-5086DD11C5-seeklogo.com_-e1615739022704.png" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="60">
   
 <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-svg-vector.svg" width="50">
   
