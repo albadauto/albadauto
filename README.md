@@ -1,4 +1,4 @@
-<h1> Hello, my name is José Adauto, I'm Fullstack developer </h1>
+<h1> Hello, my name is José Adauto, I'm backend developer </h1>
 
 <div>
 <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=dracula">
