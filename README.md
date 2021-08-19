@@ -4,10 +4,10 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=dracula">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albadauto&layout=compact&theme=dracula">
  </div>
-
+<hr>
 <div>
-<img src="https://i.imgur.com/iyhrNtt.gif" height="250cm"> 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="250">
+<img src="https://c.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif" height="238cm"> 
+<img src="https://blog.unyleya.edu.br/wp-content/uploads/2020/03/giphy-2.gif" height="238cm">
 </div>
 <h3> Technologies: </h3>
 
