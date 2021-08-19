@@ -1,8 +1,8 @@
 <h1> Hello, my name is José Adauto, I'm Fullstack developer </h1>
 
 <div>
-<img height="200cm" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=dracula">
-<img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albadauto&layout=compact&theme=dracula">
+<img height="190cm" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=dracula">
+<img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albadauto&layout=compact&theme=dracula">
  </div>
 <hr>
 <div>
