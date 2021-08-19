@@ -1,8 +1,8 @@
 <h1> Hello, my name is José Adauto, I'm backend developer </h1>
 
 <div>
-<img height="170cm" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=dracula">
-<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albadauto&layout=compact&theme=dracula">
+<img height="170cm" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=tokyonight">
+<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albadauto&layout=compact&theme=tokyonight">
  </div>
 <hr>
 <div>
