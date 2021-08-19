@@ -20,8 +20,11 @@
   
 <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-svg-vector.svg" width="50">
   
-<img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width="50">
+<img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width="60">
 
 <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width="40">
+ 
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="50">
+ 
 </div>
 
