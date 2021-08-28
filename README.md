@@ -12,7 +12,8 @@
 <h3> Technologies: </h3>
 
 <div>
-<img src="https://assets.zabbix.com/img/brands/python.svg" width="50"> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="50">
+ 
 
 <img src="https://www.php.net/images/logos/new-php-logo.svg" width="70">
   
@@ -20,7 +21,7 @@
   
 <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-svg-vector.svg" width="50">
  
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="50">
+<img src="https://assets.zabbix.com/img/brands/python.svg" width="50"> 
  
   
 <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width="60">
