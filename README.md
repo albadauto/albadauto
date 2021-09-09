@@ -36,7 +36,7 @@
  
  
 
-![Snake animation](https://github.com/albadauto/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/albadauto/albadauto/output/github-contribution-grid-snake.svg)
  
 </div>
 
