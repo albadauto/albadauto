@@ -6,8 +6,8 @@
  </div>
 <hr>
 <div>
-<img src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" height="223cm"> 
-<img src="https://blog.unyleya.edu.br/wp-content/uploads/2020/03/giphy-2.gif" height="223cm">
+<img src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" height="235cm"> 
+<img src="https://blog.unyleya.edu.br/wp-content/uploads/2020/03/giphy-2.gif" height="235cm">
 </div>
 <h3> Technologies: </h3>
 
