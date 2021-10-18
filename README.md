@@ -6,8 +6,8 @@
  </div>
 <hr>
 <div>
-<img src="https://giffiles.alphacoders.com/120/120249.gif" height="308cm"> 
-<img src="https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif" height="308cm">
+<img src="https://giffiles.alphacoders.com/120/120249.gif" height="309cm"> 
+<img src="https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif" height="309cm">
 </div>
 <h3> Technologies: </h3>
 
