@@ -1,4 +1,4 @@
-<h1> Hello, my name is José Adauto, I'm Fullstack developer </h1>
+<h1> Hello, my name is José Adauto, I'm Fullstack/Backend developer </h1>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -6,8 +6,8 @@
  </div>
 <hr>
 <div>
-<img src="https://giffiles.alphacoders.com/120/120249.gif" height="309cm"> 
-<img src="https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif" height="309cm">
+<img src="https://giffiles.alphacoders.com/120/120249.gif" height="310cm"> 
+<img src="https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif" height="310cm">
 </div>
 <h3> Technologies: </h3>
 
