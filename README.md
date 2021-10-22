@@ -1,5 +1,6 @@
 <h1> Hello, my name is José Adauto, I'm Fullstack/Backend developer </h1>
 
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albadauto&layout=compact&theme=tokyonight">
@@ -8,6 +9,8 @@
 <div>
 <img src="https://giffiles.alphacoders.com/120/120249.gif" height="310cm"> 
 <img src="https://c.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif" height="310cm">
+</div>
+<div>
 </div>
 <h3> Technologies: </h3>
 
@@ -37,6 +40,7 @@
  
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/albadauto/albadauto/output/github-contribution-grid-snake.svg)
+ <img src="https://count.getloli.com/get/@albadauto" alt="albadauto" />
  
 </div>
 
