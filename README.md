@@ -40,6 +40,7 @@
  
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/albadauto/albadauto/output/github-contribution-grid-snake.svg)
+ <hr>
  <img src="https://count.getloli.com/get/@albadauto" alt="albadauto" />
  
 </div>
