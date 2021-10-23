@@ -1,6 +1,6 @@
 ## Olá, sou José Adauto! Eu sou desenvolvedor backend/fullstack !
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/albadauto">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peartnoy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
