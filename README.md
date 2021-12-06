@@ -18,7 +18,7 @@
   
  
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/ytc/AKedOLR6Wn2zugEgaMlXcHgOC5xXlB0y_RJId5szj0L0tg=s900-c-k-c0x00ffffff-no-rj">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://static.zerochan.net/Tomioka.Giyuu.full.2843244.gif">
 </div>
   
   ##
