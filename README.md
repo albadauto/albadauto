@@ -32,3 +32,8 @@
   ![Snake animation](https://github.com/albadauto/albadauto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  <hr>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=albadauto&theme=tokyonight"/>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=albadauto&row=1&theme=darkhub"/>
+    </a>
+</p>
