@@ -18,7 +18,8 @@
   <hr>
   <h4>Aprendendo:</h4>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
- 
+   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://dicasdejavascript.com.br/images/logo-angular.png">
+
  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://static.zerochan.net/Tomioka.Giyuu.full.2843244.gif">
 </div>
