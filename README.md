@@ -1,4 +1,4 @@
-## Olá, sou José Adauto! Eu sou desenvolvedor backend/fullstack !
+## Prazer! Me chamo José Adauto, bem vindo(a) ao meu perfil!
 <div align="center">
   <a href="https://github.com/albadauto">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
