@@ -1,8 +1,8 @@
 ## Prazer! Me chamo José Adauto, bem vindo(a) ao meu perfil!
 <div align="center">
   <a href="https://github.com/albadauto">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCDMeira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albadauto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCDMeira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://static.zerochan.net/Tomioka.Giyuu.full.2843244.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/9cb6411be5a939a58f35f6f7cd8f4ee5/43858472b6e1e046-da/s540x810/cf64c90e35d57b2a2e5646c7233747a010ec59ab.gifv">
 </div>
   
   ##
