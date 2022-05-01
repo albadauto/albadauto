@@ -20,12 +20,18 @@
   
   
   </div>
+  <hr>
   
+  <div>
+    <h4> Aprendendo: </h4>
+   <img align="center" alt="Rafa-CSS" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ </div>
  
   
  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/9cb6411be5a939a58f35f6f7cd8f4ee5/43858472b6e1e046-da/s540x810/cf64c90e35d57b2a2e5646c7233747a010ec59ab.gifv">
 </div>
+
   
   ##
  
