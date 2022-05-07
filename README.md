@@ -26,7 +26,7 @@
  
   
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/9cb6411be5a939a58f35f6f7cd8f4ee5/43858472b6e1e046-da/s540x810/cf64c90e35d57b2a2e5646c7233747a010ec59ab.gifv">
+  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif">
 </div>
 
   
