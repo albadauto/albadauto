@@ -26,7 +26,7 @@
  
   
  
-  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif">
+  <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif">
 </div>
 
   
