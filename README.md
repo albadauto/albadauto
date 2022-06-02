@@ -22,7 +22,7 @@
   
   
   </div>
- 
+  
  
   
  
@@ -32,7 +32,7 @@
 
   
   ##
- 
+ <h4>Aprendendo: <img align="center" alt="Rafa-CSS" height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg"> </h4>
 <div> 
   
   <a href="https://albadev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logoColor=white" target="_blank"></a>
