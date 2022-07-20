@@ -33,7 +33,7 @@
   
   ##
   <div>
-  <h4> Aprendendo: <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"><h4/>
+  <h4> Aprendendo: <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"><h4/>
   </div>
   
   <hr>
