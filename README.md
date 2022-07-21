@@ -34,7 +34,7 @@
   
   ##
   <div>
-  <h4> Aprendendo: <h4/>
+  <h4> Aprendendo: <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> <h4/>
   </div>
   
   <hr>
