@@ -34,13 +34,7 @@
   <br><br>
 </div>
 
-  
-  ##
-  <div>
-  <h4> Aprendendo:  <h4/>
-  </div>
-  
-  <hr>
+<hr>
  
 <div> 
   
