@@ -29,6 +29,8 @@
   <br><br>
 </div>
 
+<div>
+<h5>Estudando: <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> </h5>
 <hr>
  
 <div> 
