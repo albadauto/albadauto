@@ -25,7 +25,10 @@
   
   
   </div>
-  
+  <br><br>
+  <div>
+   <h4> Aprendendo: </h4> <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  </div>
  
   <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif">
   <br><br>
