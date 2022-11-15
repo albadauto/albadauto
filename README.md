@@ -41,7 +41,7 @@
 
 
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-.NET6-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-.NET7-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <div align="center">
